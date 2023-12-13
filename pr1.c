@@ -1,7 +1,5 @@
 #include <stdio.h>
-
 #define MAX_SIZE 10
-
 // Define the stack structure
 typedef struct Stack {
   int top;
